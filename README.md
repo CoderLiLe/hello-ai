@@ -1,2 +1,2 @@
-# hello-go
-Go相关资料
+# hello-ai
+AI相关资料
